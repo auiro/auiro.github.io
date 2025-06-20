@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    background-image:url(wallpaper.png);
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    background-size: 100% 100%;
+    font-family: WindowsClassic;
+}
+p{
+    margin: 0;
+}
+
+@font-face {
+    font-family: WindowsClassic;
+    src: url(windows.ttf);
+}
